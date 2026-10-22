@@ -26,11 +26,11 @@ permalink: /resources/software-tools/sugl/
   <h2 class="resource-subheading">GPS Ephemeris Files</h2>
 
   <p>
-    Below are links to annual ZIP archives of the RINEX-format GPS Ephemeris Files for the years 2007–2025.
+    Below are links to annual ZIP archives of the RINEX-format GPS Ephemeris Files for the years 2007–2026.
   </p>
 
   <ul class="resource-link-list">
-    {% for year in (2007..2025) reversed %}
+    {% for year in (2007..2026) reversed %}
     <li>
       <a href="https://web.stanford.edu/group/scpnt/gpslab/website_files/sugl/GPS_{{ year }}.zip" target="_blank" rel="noopener">
         {{ year }} GPS Ephemeris Files ZIP Archive
@@ -42,11 +42,11 @@ permalink: /resources/software-tools/sugl/
   <h2 class="resource-subheading">Galileo Ephemeris Files</h2>
 
   <p>
-    Below are links to annual ZIP archives of the RINEX-format Galileo Ephemeris Files for the years 2018–2025.
+    Below are links to annual ZIP archives of the RINEX-format Galileo Ephemeris Files for the years 2018–2026.
   </p>
 
   <ul class="resource-link-list">
-    {% for year in (2018..2025) reversed %}
+    {% for year in (2018..2026) reversed %}
     <li>
       <a href="https://web.stanford.edu/group/scpnt/gpslab/website_files/sugl/GAL_{{ year }}.zip" target="_blank" rel="noopener">
         {{ year }} Galileo Ephemeris Files ZIP Archive
