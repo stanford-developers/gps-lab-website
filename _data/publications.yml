@@ -98,6 +98,16 @@
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lo_ION_ITM_2026_Observations_of_Spoofing.pdf"
 
 - year: 2026
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  title: "Receiver Placement and Number Selection of Ground-Based Integrity Monitor Via Convex Optimization"
+  authors: "Pullen, Sam, Oak, Sukrut, Lo, Sherman, Blanch, Juan, Blanch, Walter, Todd, Crews, Mark, Frey, Charles, and Barrett, Brice"
+  venue: "Proceedings of the 39th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2026), Orlando, FL"
+  citation: Presented at the 39th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2026), Orlando, FL, September 2026.
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Pullen_ION_GNSS_2026_DFMC_SBAS_Network_Optimization.pdf"
+
+- year: 2026
   month: January
   first_author_last: "Sparks"
   category: journal
