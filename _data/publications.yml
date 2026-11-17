@@ -77,6 +77,17 @@
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_GNSS_2026_Integrity_Network_Optimization.pdf"
 
 - year: 2026
+  month: July
+  first_author_last: "Lai"
+  category: theses
+  title: "Global Integrity Monitoring for Precise Satellite Navigation"
+  authors: "Lai, Frank"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  citation: Ph.D. Dissertation, Stanford University, July 2026.
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/theses/FrankLaiThesis2026.pdf"
+
+- year: 2026
   month: March
   first_author_last: "Liu"
   category: theses
