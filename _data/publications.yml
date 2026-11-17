@@ -99,9 +99,19 @@
 
 - year: 2026
   month: September
+  first_author_last: "Min"
+  category: conference
+  title: "A Framework for Integrity-Ensured URA Generation in Dedicatd LEO PNT Systems"
+  authors: "Min, Dongchan, Pullen, Sam, Do, Jimin, and Lee, Jiyun"
+  venue: "Proceedings of the 39th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2026), Orlando, FL"
+  citation: Presented at the 39th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2026), Orlando, FL, September 2026.
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Min_ION_GNSS_2026_URA_LEO_PNT.pdf"
+
+- year: 2026
+  month: September
   first_author_last: "Pullen"
   category: conference
-  title: "Receiver Placement and Number Selection of Ground-Based Integrity Monitor Via Convex Optimization"
+  title: "Dual-Frequency Multi-Constellation (DFMC) SBAS Network Optimization Using Genetic Algorithms"
   authors: "Pullen, Sam, Oak, Sukrut, Lo, Sherman, Blanch, Juan, Blanch, Walter, Todd, Crews, Mark, Frey, Charles, and Barrett, Brice"
   venue: "Proceedings of the 39th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2026), Orlando, FL"
   citation: Presented at the 39th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2026), Orlando, FL, September 2026.
