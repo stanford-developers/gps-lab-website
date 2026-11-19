@@ -226,7 +226,7 @@
   email: "zhlouise@stanford.edu"
   # website: "https://example.com"
   scholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=RI5_pTwAAAAJ"
-  linkedin: "www.linkedin.com/in/jia-yi-zhou"
+  linkedin: "https://www.linkedin.com/in/jia-yi-zhou"
 
 - name: "Sukrut Oak"
   group: "students"
@@ -249,7 +249,7 @@
   # education:
   #   - " "
   # interests: ""
-  headshot: "/assets/img/people/profile_stanford.jpg"
+  headshot: "/assets/img/people/profile_cho_eric.jpg"
   # email: "twalter@stanford.edu"
   # website: "https://example.com"
   # scholar: "https://scholar.google.com/citations?user=CAlBP2MAAAAJ&hl=en"
