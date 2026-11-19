@@ -268,10 +268,13 @@ layout: default
             <img src="{{ '/assets/img/carousel/08.jpg' | relative_url }}" alt="dana retirement">
           </div>
           <div class="lab-carousel-slide">
-            <img src="{{ '/assets/img/carousel/09.jpg' | relative_url }}" alt="dana retirement">
+            <img src="{{ '/assets/img/carousel/09.jpg' | relative_url }}" alt="half moon bay dinner">
           </div>
           <div class="lab-carousel-slide">
-            <img src="{{ '/assets/img/carousel/10.jpg' | relative_url }}" alt="dana retirement">
+            <img src="{{ '/assets/img/carousel/10.jpg' | relative_url }}" alt="half moon bay">
+          </div>
+          <div class="lab-carousel-slide">
+            <img src="{{ '/assets/img/carousel/11.jpg' | relative_url }}" alt="students dinner">
           </div>
         </div>
       </div>
