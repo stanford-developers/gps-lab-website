@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Research"
-permalink: /research/current-and-continuing-gpspnt-research/time-time-transfer/
+permalink: /research/current-and-continuing-gpspnt-research/time-frequency-transfer/
 ---
+
 <div class="research-layout">
   {% include research-sidebar.html %}
 <div class="research-content">
-  <h1>Time &amp; Time Transfer</h1>
+  <h1>Time &amp; Frequency Transfer</h1>
 
   <p class="research-intro">
     Currently, microwave time transfer systems between ground and space reach a
@@ -17,8 +18,8 @@ permalink: /research/current-and-continuing-gpspnt-research/time-time-transfer/
     which aim for the 10<sup>−17</sup> level or better.
   </p>
 
-  <img src="{{ '/assets/img/research/time-transfer-diagram.jpg' | relative_url }}"
-       alt="Time and Time Transfer diagram"
+<img src="{{ '/assets/img/research/time-transfer-diagram.jpg' | relative_url }}"
+       alt="Time and Frequency Transfer diagram"
        class="research-content-image">
 
   <p>
