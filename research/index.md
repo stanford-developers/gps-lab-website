@@ -51,14 +51,14 @@ permalink: /research/
           </div>
         </a>
 
-        <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/time-time-transfer/' | relative_url }}">
+        <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/time-frequency-transfer/' | relative_url }}">
 
         <img
           src="{{ '/assets/img/research/time_transfer.jpg' | relative_url }}"
-          alt="Time & Time Transfer">
+          alt="Time & Frequency Transfer">
 
           <div class="resource-body">
-            <h3>Time &amp; Time Transfer</h3>
+            <h3>Time &amp; Frequency Transfer</h3>
             <p>Methods for transferring precise time between ground and space to support advanced clocks and demanding scientific missions.</p>
           </div>
         </a>
