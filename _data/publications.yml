@@ -134,7 +134,7 @@
   category: conference
   title: "Analyzing the Effects of Detected Spoofing Patterns on an Aircraft"
   authors: "Roman, Alex, Lo, Sherman, Liu, Zixi, Chen Yu Hsuan, and Walter, Todd"
-  doi: "10.33012/2026.20637"
+  # doi: "10.33012/2026.20637"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
   citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Romano_ION_PPNT_2026_Spoofing_Patterns.pdf"
