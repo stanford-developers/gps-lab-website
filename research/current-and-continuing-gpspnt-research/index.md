@@ -3,6 +3,7 @@ layout: page
 title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/
 ---
+
 <div class="research-layout">
   {% include research-sidebar.html %}
 <div class="research-content">
@@ -74,9 +75,9 @@ permalink: /research/current-and-continuing-gpspnt-research/
     <a href="/research/current-and-continuing-gpspnt-research/cyber-safety-transportation">More about Cyber Safety for Transportation</a>
   </p>
 
-  <h2 class="research-subheading">Time &amp; Time Transfer</h2>
+  <h2 class="research-subheading">Time &amp; Frequency Transfer</h2>
   <img src="{{ '/assets/img/research/time-transfer-thumb.jpg' | relative_url }}"
-       alt="Time and Time Transfer diagram"
+       alt="Time and Frequency Transfer diagram"
        class="research-content-image">
   <p>
     Currently, microwave time transfer systems between ground and space reach a
@@ -87,7 +88,7 @@ permalink: /research/current-and-continuing-gpspnt-research/
     aim for the 10<sup>−17</sup> level or better.
   </p>
   <p>
-    <a href="/research/current-and-continuing-gpspnt-research/time-time-transfer">More information about Time and Time Transfer</a>
+    <a href="/research/current-and-continuing-gpspnt-research/time-Frequency-transfer">More information about Time and Frequency Transfer</a>
   </p>
 
   <h2 class="research-subheading">IMU Development &amp; Testing</h2>
